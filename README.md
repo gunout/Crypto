@@ -19,24 +19,7 @@ Analyses des 20 plus grosses Cryptomonnaies du Marché ( de leurs creations a 20
      Ticker       Crypto         Category Launch_Date  Initial_Price  Final_Price  Total_Return_%  Annualized_Return_%  Annual_Volatility_%  Sharpe_Ratio  Max_Drawdown_%  Corr_with_BTC
     BTC-USD      Bitcoin   Store of Value  2010-07-17         457.33    116914.55        25464.37                65.48                67.74          0.97          -83.40           1.00
     ETH-USD     Ethereum  Smart Contracts  2015-07-30         320.88      4538.71         1314.44                40.08                86.55          0.46          -93.96           0.83
-   USDT-USD       Tether       Stablecoin  2014-02-25           1.01         1.00           -0.77                -0.10                 6.95         -0.01          -10.32          -0.17
-    BNB-USD Binance Coin   Exchange Token  2017-07-25           1.99       996.95        49978.38               120.52                98.14          1.23          -80.10           0.93
-   USDC-USD     USD Coin       Stablecoin  2018-09-26           1.00         1.00           -0.25                -0.04                 5.69         -0.01           -7.08          -0.33
-    XRP-USD          XRP         Payments  2013-08-04           0.22         3.04         1298.15                39.87               115.68          0.34          -95.87           0.80
-    ADA-USD      Cardano  Smart Contracts  2017-09-29           0.03         0.91         2738.11                53.06               126.75          0.42          -97.85           0.53
-    SOL-USD       Solana  Smart Contracts  2020-04-10           0.95       243.73        25527.17               177.04               124.78          1.42          -96.27           0.85
-   DOGE-USD     Dogecoin             Meme  2013-12-15           0.00         0.28        19384.63                95.57               179.75          0.53          -92.26           0.78
-    TRX-USD         TRON    Entertainment  2017-09-13           0.00         0.35        14730.70                88.89               127.83          0.70          -96.01           0.94
-  MATIC-USD      Polygon          Scaling  2019-04-25           0.00         0.22         4795.16                93.26               140.55          0.66          -92.83           0.33
-    DOT-USD     Polkadot Interoperability  2020-05-26           2.90         4.62           59.19                 9.58               104.22          0.09          -94.15          -0.01
-    LTC-USD     Litecoin         Payments  2011-10-13           5.06       117.35         2219.82                33.06               100.74          0.33          -93.45           0.50
-   AVAX-USD    Avalanche  Smart Contracts  2020-09-21           5.23        34.28          554.81                45.72               120.62          0.38          -93.47           0.21
-   LINK-USD    Chainlink           Oracle  2017-09-21           0.22        24.59        10880.63                81.81               121.67          0.67          -90.19           0.69
-    XLM-USD      Stellar         Payments  2014-08-01           0.04         0.39          886.38                33.80               112.75          0.30          -96.27           0.47
-UNI7083-USD      Uniswap             DeFi  2020-09-17           6.90         9.38           35.98                 6.34               115.68          0.05          -91.58           0.19
-    BCH-USD Bitcoin Cash         Payments  2017-08-01         654.30       610.57           -6.68                -0.88               113.09         -0.01          -98.03           0.02
-   ATOM-USD       Cosmos Interoperability  2019-03-14           6.53         4.66          -28.52                -5.02               112.46         -0.04          -91.94           0.11
-    XMR-USD       Monero          Privacy  2014-04-18         120.78       298.38          147.04                12.19                90.76          0.13          -92.96           0.60
+ 
 🎨 Création des visualisations...
 
 📋 Rapport détaillé pour Bitcoin (BTC-USD)
